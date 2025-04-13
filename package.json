@@ -1,0 +1,21 @@
+{
+  "name": "vh-lcs",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "tu",
+    "paquete",
+    "utils"
+  ],
+  "author": "Vidal Herrera",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu-usuario/tu-repo.git"
+  }
+}
